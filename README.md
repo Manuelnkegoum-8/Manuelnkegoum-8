@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Manuelnkegoum-8/Manuelnkegoum-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Manuel's GitHub Banner](./images/GitHubHeader.png)]
+![Manuel's GitHub Banner](./images/github-header-image.png)]
+###  👋 Hi there  I'm Manuel NKEGOUM 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-nkegoum)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.linkedin.com/in/manuel-nkegoum)
+
+-  🎓 Student in Data Sciences at the Polytechnique Paris's Instute.
+- 🧠 Passionate about the fields of Artificial Intelligence, Machine Learning and Deep Learning, I'm determined to contribute to the future of these exciting technologies.
+- ⚽ An avid soccer fan, I played as a defensive or central midfielder on my university's soccer team.
+- 🔬 An aspiring researcher, I strive to explore the frontiers of data science to solve complex problems and provide innovative solutions.
+- 🤝 I'm open to collaboration opportunities, challenging research projects and discussions about the exciting future of AI and ML.
+
+<!--### 🔭 I’m currently working on -->
