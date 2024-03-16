@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Manuel's GitHub Banner](./images/github-header-image.png)]
+![Manuel's GitHub Banner](./images/github-header-image.png)
 ###  👋 Hi there  I'm Manuel NKEGOUM 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-nkegoum)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.linkedin.com/in/manuel-nkegoum)
