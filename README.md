@@ -43,6 +43,7 @@ My research topic will focus on how automatic speech understanding models adapt 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 
+
 ###  👯 Interested in Pursuing a PhD in AI
 
  Highly motivated to pursue a PhD in Artificial Intelligence or a related field. My research interests include NLU/NLP, computer vision,Generative AI.
