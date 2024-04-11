@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 🔬 An aspiring researcher, I strive to explore the frontiers of data science to solve complex problems and provide innovative solutions.
 - 🤝 I'm open to collaboration opportunities, challenging research projects and discussions about the exciting future of AI and ML.
 
-### 🔭 I will soon be starting work on an exciting research project related to Natural Language Understanding (NLU) at Orange
-My research topic will focus on how automatic speech understanding models adapt to the context of dialogue. Specifically, we will focus on task-oriented dialogues in which two interlocutors exchange information in order to collaboratively solve a task.
+### 🔭 Currently working on an exciting research project related to Natural Language Understanding (NLU) at Orange
+My research topic focus on how automatic speech understanding models adapt to the context of dialogue. Specifically, we will focus on task-oriented dialogues in which two interlocutors exchange information in order to collaboratively solve a task.
 
 ### ⚡ Projects
 - Structured output learning with conditional generative flows ![cGlow](https://github.com/Manuelnkegoum-8/cGLOW)
